@@ -59,6 +59,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 |---|---|---|---|---|---|
 | [Langfuse](https://github.com/langfuse/langfuse) | ✅ | ✅ | Python, JS/TS | MIT (open-core) | All-in-one: tracing + evals + prompts |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | ✅ | ✅ | Python, JS/TS | Elastic v2 | Local-first debugging + built-in evals |
+| [ax](https://github.com/Necmttn/ax) | ✅ | OTLP ingest | CLI / MCP | AGPL-3.0 | Local coding-agent transcripts, tools, skills, and costs |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | ✅ (backend-agnostic) | ✅ | Python, JS/TS, Go, Ruby | Apache-2.0 | Shipping OTel traces to any backend |
 | [Opik](https://github.com/comet-ml/opik) | ✅ | ✅ | Python, TS | Apache-2.0 | Open-source tracing + evals |
 | [OpenLIT](https://github.com/openlit/openlit) | ✅ | ✅ | Python, TS | Apache-2.0 | One-line OTel instrumentation (incl. GPUs) |
@@ -75,6 +76,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform with tracing, evals, prompt management, and datasets; OpenTelemetry-native.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) — Open-source observability for tracing, evaluating, and debugging agents, built on OpenTelemetry.
+- [ax](https://github.com/Necmttn/ax) — Local-first observability and memory graph for AI coding agents, indexing transcripts, tool calls, skills, costs, and OTLP events for dashboard and MCP queries.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) — OpenTelemetry extensions that add complete observability to LLM apps and ship traces to existing backends.
 - [OpenLLMetry JS](https://github.com/traceloop/openllmetry-js) — The JavaScript/TypeScript counterpart of OpenLLMetry for Node and browser agents.
 - [Opik](https://github.com/comet-ml/opik) — Debug, evaluate, and monitor LLM apps, RAG, and agentic workflows with tracing and production dashboards.
