@@ -87,6 +87,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 - [LangWatch](https://github.com/langwatch/langwatch) — Monitoring, evaluation, and analytics platform for LLM and agent applications.
 - [Weave](https://github.com/wandb/weave) — Weights & Biases toolkit for tracking, evaluating, and debugging LLM application calls.
 - [MLflow](https://github.com/mlflow/mlflow) — ML lifecycle platform with LLM tracing, evaluation, and prompt management features.
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) — OpenAI-compatible control plane for governed agent runtimes with MCP and tool traces, policy decisions, approval workflows, and usage or cost visibility.
 
 ## Evaluation Frameworks
 
@@ -173,6 +174,7 @@ LLM proxies that emit logs, traces, and cost metrics for everything behind them.
 
 - [LiteLLM](https://github.com/BerriAI/litellm) — Unified gateway to 100+ LLMs with built-in logging, cost tracking, and observability hooks.
 - [Portkey Gateway](https://github.com/portkey-ai/gateway) — Fast open-source AI gateway with tracing, guardrails, and observability across providers.
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) — Governed AI gateway and control plane for models, agents, MCP servers, and skills with approvals, trace correlation, and tenant-aware runtime controls.
 
 ## Related Lists
 
