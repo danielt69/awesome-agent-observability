@@ -163,6 +163,7 @@ Standardized tasks for measuring agent capability and regressions over time.
 
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench) — Benchmark of real GitHub issues for evaluating coding agents on software engineering tasks.
 - [WebArena](https://github.com/web-arena-x/webarena) — Self-hostable web environment for benchmarking autonomous web agents on realistic tasks.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — Live-web benchmark for everyday online tasks, with 283 V1+V2 tasks across 163 websites, request interception, and multi-layer execution traces; [project](https://claw-bench.com) · [paper](https://arxiv.org/abs/2604.08523).
 - [AgentBench](https://github.com/THUDM/AgentBench) — Multi-environment benchmark for evaluating LLMs as agents across diverse tasks.
 - [HELM](https://github.com/stanford-crfm/helm) — Stanford's Holistic Evaluation of Language Models framework and leaderboard.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — EleutherAI's de facto framework for few-shot evaluation of language models.
