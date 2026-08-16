@@ -125,6 +125,7 @@ Score agent trajectories, tool use, and output quality — in CI and in producti
 - [Patronus SDK](https://github.com/patronus-ai/patronus-py) — Python SDK for evaluating and monitoring LLM and agent outputs against managed evaluators.
 - [Agent Evaluation](https://github.com/awslabs/agent-evaluation) — AWS framework that uses an LLM judge to test conversational agents end-to-end.
 - [Agenta](https://github.com/Agenta-AI/agenta) — Open-source LLMOps platform for prompt engineering, evaluation, and observability.
+- [Agent QA](https://github.com/vostride/agent-qa) — Application-level web/mobile regression testing with persistent test memory and failure evidence; complements rather than scores agent trajectories.
 
 ## Guardrails & Safety
 
