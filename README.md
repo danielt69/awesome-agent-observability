@@ -173,6 +173,7 @@ LLM proxies that emit logs, traces, and cost metrics for everything behind them.
 
 - [LiteLLM](https://github.com/BerriAI/litellm) — Unified gateway to 100+ LLMs with built-in logging, cost tracking, and observability hooks.
 - [Portkey Gateway](https://github.com/portkey-ai/gateway) — Fast open-source AI gateway with tracing, guardrails, and observability across providers.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) — Local-first, self-hosted agent runtime with an MCP gateway, approval and credential controls, and auditable session/replay records; sandbox isolation depends on the selected backend and deployment configuration.
 
 ## Related Lists
 
