@@ -171,6 +171,7 @@ Standardized tasks for measuring agent capability and regressions over time.
 
 LLM proxies that emit logs, traces, and cost metrics for everything behind them.
 
+- [Bifrost](https://github.com/maximhq/bifrost) — OpenAI-compatible AI gateway with multi-provider routing, automatic failover, load balancing, guardrails, MCP gateway support, and built-in logs, metrics, and tracing.
 - [LiteLLM](https://github.com/BerriAI/litellm) — Unified gateway to 100+ LLMs with built-in logging, cost tracking, and observability hooks.
 - [Portkey Gateway](https://github.com/portkey-ai/gateway) — Fast open-source AI gateway with tracing, guardrails, and observability across providers.
 
