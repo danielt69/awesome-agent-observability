@@ -73,6 +73,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 
 ### All entries
 
+- [ReliaMesh](https://github.com/PrefilerLabs/reliamesh) — Self-hosted AI-agent reliability monitoring with regression detection and incident recovery using application-reported outcomes without collecting prompts or responses.
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform with tracing, evals, prompt management, and datasets; OpenTelemetry-native.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) — Open-source observability for tracing, evaluating, and debugging agents, built on OpenTelemetry.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) — OpenTelemetry extensions that add complete observability to LLM apps and ship traces to existing backends.
