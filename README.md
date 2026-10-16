@@ -73,6 +73,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 
 ### All entries
 
+- [Agent Observatory](https://github.com/abhishekash/agent-observatory) — Local dashboard for inspecting coding-agent sessions, tool activity, MCP calls, traces, and host processes.
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform with tracing, evals, prompt management, and datasets; OpenTelemetry-native.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) — Open-source observability for tracing, evaluating, and debugging agents, built on OpenTelemetry.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) — OpenTelemetry extensions that add complete observability to LLM apps and ship traces to existing backends.
