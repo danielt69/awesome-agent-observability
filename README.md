@@ -87,6 +87,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 - [LangWatch](https://github.com/langwatch/langwatch) — Monitoring, evaluation, and analytics platform for LLM and agent applications.
 - [Weave](https://github.com/wandb/weave) — Weights & Biases toolkit for tracking, evaluating, and debugging LLM application calls.
 - [MLflow](https://github.com/mlflow/mlflow) — ML lifecycle platform with LLM tracing, evaluation, and prompt management features.
+- [Flowlines](https://flowlines.ai/docs) — Hosted MCP analytics and agent monitoring for tool adoption, user journeys, reported outcomes, and recurring failures with session evidence.
 
 ## Evaluation Frameworks
 
